@@ -21,3 +21,6 @@ Findings are based on the artifacts available at the time of analysis and may no
 
 ## Trademarks
 Product and tool names (e.g., Windows, Volatility, Autopsy) are the property of their respective owners and are used here for identification purposes only.
+
+## AI / Data Handling Note
+No “evidence” (disk images, memory captures, raw logs, recovered credentials, or sensitive identifiers) was uploaded to a cloud-based/API AI service.
